@@ -1,0 +1,3 @@
+访问
+http://openapi.baidu.com/oauth/2.0/authorize?response_type=token&client_id=YrxAm1COW2wHstxWi8p5qaHg&redirect_uri=oob&scope=netdisk
+将重定向的url中的access\_token替换源文件中的YOUR\_ACCESS\_TOKEN即可！
